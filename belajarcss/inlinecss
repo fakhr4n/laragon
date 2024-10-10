@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+    <title>inline CSS</title>
+</head>
+<body>
+    <h1 style="color: aquamarine;text-align:center">Selamat Datang DiWeb SMK BPI</h1>
+
+    <p style="font-size: 18px; color: darkblue;">
+        Ini adalah paragraf pertama dengan gaya inline.
+        Saya menggunakan CSS inline unt      uk mengatur warna dan ukuran font.
+    </p>
+
+    <p style="font-size: 16px; color: purple; font-style: italic;">
+        Ini adalah paragraf kedua yang memiliki gaya berbeda.
+    </p>
+
+    <button style="background-color: orange; color: white; padding: 10px 20px; border: none; border-radius: 5px;">
+        Klik saya
+    </button>
+</body>
+</html>
